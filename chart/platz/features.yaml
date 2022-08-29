@@ -3,4 +3,4 @@ kind: Features
 spec:
   display:
     icon:
-      font_awesome: headphones
+      font_awesome: tractor
